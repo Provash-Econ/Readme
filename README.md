@@ -1,2 +1,2 @@
 # Readme
-A highly motivated economist at Bangladesh Bank. An Economics Ph.D. from Wuhan University, with undergraduate and graduate degrees in Finance from the University of Dhaka. Interested in research on the complex and evolving relationships among macroeconomic phenomena, monetary policy adjustments, climate factors, financial stability, and inequality. Dedicated to advancing macroeconomic policies that address the shifting priorities of emerging markets and advanced economies. 
+Hi there!
